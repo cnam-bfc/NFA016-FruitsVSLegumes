@@ -1,0 +1,9 @@
+Dockerfile
+.dockerignore
+
+README.txt
+
+# Ignore .git folder
+.git
+.gitattributes
+.gitignore
